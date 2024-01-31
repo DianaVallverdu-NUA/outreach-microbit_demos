@@ -6,3 +6,8 @@
 - [Say Hi - Group 4](https://makecode.microbit.org/S18257-14523-71806-73568)
 - [Say Hi - Grou 5](https://makecode.microbit.org/S75474-87921-96548-35276)
 - [Say Hi - Group 6](https://makecode.microbit.org/S57564-88858-54544-60368)
+
+- [Control Each Other - Group 1](https://makecode.microbit.org/S41585-39416-14825-72071)
+- [Control Each Other - Group 2](https://makecode.microbit.org/S16656-37785-01210-30121)
+- [Control Each Other - Group 3](https://makecode.microbit.org/S41681-71033-51456-64600)
+- [Control Each Other - Group 4](https://makecode.microbit.org/S58860-69723-02461-94990)
