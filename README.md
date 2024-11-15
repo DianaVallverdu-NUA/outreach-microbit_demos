@@ -2,12 +2,6 @@
 **Workshop Prep:**
 - [Controller](https://makecode.microbit.org/S48591-24580-39101-54482)
 
-**Just Demo:**
-- [Controller - Group 1](https://makecode.microbit.org/S41585-39416-14825-72071)
-- [Receiver - Group 1](https://makecode.microbit.org/S41585-39416-14825-72071)
-- [Controller - Group 2](https://makecode.microbit.org/S16656-37785-01210-30121)
-- [Receiver - Group 2](https://makecode.microbit.org/S16656-37785-01210-30121)
-
 
 **Workshop Buggy Base:**
 - [Group 1 - Controlled](https://makecode.microbit.org/S19103-13606-10226-00555)
